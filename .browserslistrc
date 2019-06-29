@@ -1,0 +1,11 @@
+# 配置支持的浏览器
+# > 1%
+# last 2 versions
+
+[production staging]
+Android >= 4.0
+iOS >= 7
+
+[development]
+Android >= 6.0
+iOS >= 11
